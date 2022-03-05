@@ -2,5 +2,5 @@ const h2 = document.createElement("h2");
 h2.textContent = "This content added by JavaScript";
 document.querySelector("body").appendChild(h2);
 const h3 = document.createElement("h3");
-h3.textContent = "Welcome to my Website!";
+h3.textContent = "Welcome to El Salvador in 2022!";
 document.querySelector("body").appendChild(h3);
